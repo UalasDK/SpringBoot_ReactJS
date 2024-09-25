@@ -1,0 +1,2 @@
+https://github.com/cursodsousa/minhas-financas-app
+https://github.com/cursodsousa/minhasfinancas-api

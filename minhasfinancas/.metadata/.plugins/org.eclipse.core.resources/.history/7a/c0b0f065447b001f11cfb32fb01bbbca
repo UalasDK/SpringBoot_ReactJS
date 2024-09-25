@@ -1,0 +1,5 @@
+package com.ualas.minhasfinancas.model.entity;
+
+public class Usuario {
+
+}
